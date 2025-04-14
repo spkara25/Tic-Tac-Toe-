@@ -35,10 +35,7 @@ gcc tic_tac_toe.c -o tic_tac_toe `pkg-config --cflags --libs gtk+-3.0`
 ## ▶️ Running the Game
 
 After compiling, run the executable:
-
-```bash
-./tic_tac_toe
-```
+    ./tic_tac_toe
 
 A window will pop up with a 3x3 grid. Click a cell to make your move. The game will automatically detect wins or draws and display appropriate messages.
 
@@ -51,6 +48,11 @@ A window will pop up with a 3x3 grid. Click a cell to make your move. The game w
 - **checkDraw()**: Checks if the game is a draw.
 - **updateButtonLabel()**: Updates the button text with the player's move.
 - **showMessage()**: Displays a popup message (e.g., win/draw).
+
+## 🖥️ Screen Shots of the Implementation
+<img width="299" alt="Screenshot 2025-04-14 at 10 34 04" src="https://github.com/user-attachments/assets/d1243560-16be-441e-b567-808bd39ef878" />
+
+<img width="302" alt="Screenshot 2025-04-14 at 10 34 47" src="https://github.com/user-attachments/assets/ceff4506-5922-4b7b-a41d-e2ffd691f064" />
 
 ## 💡 Future Enhancements
 
