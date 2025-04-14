@@ -58,18 +58,10 @@ A window will pop up with a 3x3 grid. Click a cell to make your move. The game w
 - Implement AI for single-player mode
 - Highlight winning line
 - Keep score of rounds
-
-## 📸 Screenshot
-
-*(Optional: You can add a screenshot here of the app running)*
-
 ---
 
 ## 🧑‍💻 Author
 
-Your Name  
-[Optional Contact Info or GitHub Profile]
+Shreeja Karajagi 
 
 ---
-
-Let me know if you'd like a version with a Makefile or want to extend the project with additional features!
